@@ -1,0 +1,31 @@
+hypothesis,supported,direction,papers
+Digital servitization positively impacts the operational performance of the company to a greater extent than non-digital servitization,TRUE,null,1
+Digital servitization positively impacts the competitive performance of the company to a greater extent than non-digital servitization,TRUE,null,1
+Digital servitization positively impacts the customer-oriented performance of the company to a greater extent than non-digital servitization,TRUE,null,1
+What kinds of requirements do different actors have in introducing smart services?,"Answered: Eight requirement categories identified across four actor groups, divided into smart service specific (value, reliability, competence, data security) and general service requirements (attitude, reliance, installed base knowledge, service reputation)",null,1
+How are the requirements of different actors interconnected when manufacturing firms introduce smart services?,"Answered: Four types of interconnectedness mapped (value, reliability, competence, data security); interconnectedness operates as resource interdependence or actors intentions and interpretations",null,1
+Introducing smart services necessitates fulfilling a combination of multiple actors' interconnected requirements,Supported by case evidence,null,1
+Value and reliability of smart services are particularly interconnected requirements involving a diversity of actors whose perceptions evolve and change based on relationships and discussions with other actors,Supported by case evidence,null,1
+General attitudes towards services and the level of knowledge of the installed base of equipment and services affect the perception of the value of smart services,Supported by case evidence,null,1
+The level of reliance on service employees and their service reputation affects the perception of reliability of smart services and the required competence for offering them,Supported by case evidence,null,1
+There is a positive and significant relationship between the intensity of services provided and sales increase,TRUE,null,1
+There is a positive and significant relationship between the intensity of services provided and ROS,TRUE,null,1
+There is a positive and significant relationship between the intensity of services provided and ROS increase,TRUE,null,1
+Firm size (number of employees) positively moderates the effect of servitization on firm performance,FALSE,null,1
+Firm size (sales revenues) positively moderates the effect of servitization on firm performance,FALSE,null,1
+Firm age positively moderates the effect of servitization on firm performance,FALSE,null,1
+Level of development of plant country positively moderates the effect of servitization on firm performance,FALSE,null,1
+Limited service offering (low SSP focus) + specific investments + customer opportunism + customer integration + high complexity -> servitization success. Symmetrical exchange: customer integration as reciprocal investment under opportunism.,TRUE,null,1
+Limited service offering (low SSC focus) + specific investments + customer opportunism + customer integration + high complexity -> servitization success. SSP vs SSC type causally irrelevant when neither is highly focused.,TRUE,null,1
+Extensive service offering (high SSP + high SSC) + specific investments + absence of customer opportunism + absence of complexity of customer needs -> servitization success. Low customer-side risk enables one-sided specific investments without need for customer integration.,TRUE,null,1
+Extensive service offering (high SSP + high SSC) + absence of specific investments + customer integration + high complexity -> servitization success. Customer-dominant dynamic: customer integration substitutes for specific investments; high coordination costs make specific investments counterproductive with extensive offering.,TRUE,null,1
+Extensive service offering (high SSP + high SSC) + absence of customer opportunism + customer integration -> servitization success regardless of demand uncertainty or specific investments. Strong willingness for integration under low opportunism sufficient for advanced servitization success.,TRUE,null,1
+Absence of both SSP and SSC focus + absence of specific investments + absence of complexity -> servitization failure. No strategic intent and no demand driver.,TRUE,null,1
+Absence of SSP focus + absence of specific investments + absence of customer integration -> servitization failure. Neither provider investments nor customer reciprocal investments present.,TRUE,null,1
+Absence of SSC focus + absence of specific investments + customer opportunism -> servitization failure. Absence of specific investments combined with opportunism becomes risk factor for failure.,TRUE,null,1
+Absence of SSC focus + absence of specific investments + absence of customer integration -> servitization failure. No provider investment and no customer reciprocal investment.,TRUE,null,1
+"SSP focus + absence of specific investments + customer opportunism + absence of complexity -> servitization failure. Under stable demand, provider must invest in educating and training customer to avoid failure; opportunism without specific investments impedes success.",TRUE,null,1
+Bricolage mediates the relationship between data analytics capability and product-oriented services,TRUE,null,1
+Bricolage mediates the relationship between data analytics capability and customer-oriented services,TRUE,null,1
+Innovation orientation positively moderates the mediation effect of bricolage on the relationship between data analytics capability and product-oriented services,TRUE,null,1
+Digital servitization positively impacts the environmental performance of the company to a greater extent than non-digital servitization,TRUE,null,1
